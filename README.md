@@ -1,6 +1,7 @@
 
 # AlumnLink - Alumni Management Platform
 
+
 **AlumnLink** is an alumni management platform designed to foster interaction and engagement among alumni, institutions, and administrators. Inspired by Vaave, it provides separate portals for users (alumni), institutional admins, and superadmins, each with tailored functionalities to meet their specific needs.
 ## Table of Contents
 
